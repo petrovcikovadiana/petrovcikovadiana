@@ -1,12 +1,13 @@
 ## 👋 Hi, I'm Diana 
 
 
-I'm junior front-end developer with a year of experience in creating dynamic and responsive websites. My preferred tools are **React** and **TailwindCSS**.
+I'm junior front-end developer with 2 years of experience in creating dynamic and responsive websites. My preferred tools are **React** and **TailwindCSS**.
 
 ---
 
 - 🖥️ **I’m currently working on:** <br />
-I'm building JobHouse, a job portal website in NextJS that allows users to post job offers and apply for positions. The platform provides seamless job listing and application features for both employers and job seekers.
+I’m currently developing a modern time tracking tool designed for both employees and managers. The platform enables efficient project and task management, allowing users to log time spent on tasks and track progress. Built with Next.js, TypeScript, Tailwind and Supabase (PostgreSQL).
+
 - 🚀 **I’m currently learning:** <br />
 Next.js & TypeScript to improve my skills in modern web development.
 - 🤝 **I’m looking for a job:**   <br />
